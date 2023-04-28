@@ -16,6 +16,6 @@
 </div><br>
 	
 
-- 🔭 Hoje estou trabalhando com Criação de Site com Wordpress e Elemtentor  ...
+- 🔭 Hoje estou trabalhando com Criação de Site com Wordpress e Elementor  ...
 - 🌱 Estudando Python, Power BI e Big Data
 
