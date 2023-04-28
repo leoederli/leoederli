@@ -1,5 +1,12 @@
 ### Olá eu sou Leonardo Ederli 👋
 
+<div>
+	<a href="https://github-readme-stats.vercel.app/api/wakatime?username=leoederli">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+</a>
+
+</a>
+</div><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
